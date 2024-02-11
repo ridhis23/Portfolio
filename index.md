@@ -1,3 +1,7 @@
+### Hello, I'm Ridhi !
+
+I am a freshman at UC San Diego majoring in Computer Engineering. I continue to look for opportunities in hardware and software to extend my learning further.
+
 ### Current Projects
 
 1. **ezTerminal** - A tool which makes using the command line easier for all !   
