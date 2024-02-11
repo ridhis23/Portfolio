@@ -9,6 +9,16 @@
 ## Past Projects
 
 
+## Skills
+
+1. Object-oriented Java
+3. Data structures
+4. Arduino circuit design
+5. Familiar with basics of machine learning concepts
+6. Databases
+
+   
+
 
 
 
