@@ -15,7 +15,8 @@ I am a freshman at UC San Diego majoring in Computer Engineering. I continue to 
 1. **Arduino Projects**   
 have worked extensively with the arduino board. Details of all my projects are available on my blog : [Hackaday Blog](https://hackaday.io/XtremeTech).
 
-3. Facial Emotions Prediction - Neural Network 
+3. **Facial Emotions Prediction - Neural Network**   
+   Developed a neural network using Python which could predict facial emotions from pictures.
 
 
 ### Skills
