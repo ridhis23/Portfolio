@@ -12,6 +12,8 @@ I am a freshman at UC San Diego majoring in Computer Engineering. I continue to 
 
 ### Past Projects
 
+1. Arduino Projects - have worked extensively with the arduino board. Details of all my projects are available on my blog : ![Hackaday Blog] https://hackaday.io/XtremeTech. 
+
 
 ### Skills
 
